@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="coding.jfif">
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
-
+<br>
 <br/>
 
 <div align="center">
@@ -29,7 +29,7 @@
 </div>
 
  <hr/>
- 
+ <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
