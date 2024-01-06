@@ -3,6 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sama+Rafaqat!;" />
 </h1>
+<img align="right" alt="Coding" width="400" src="coding.jfif">
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
@@ -56,6 +57,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=sama807&show_icons=true&locale=en&layout=compact" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sama807&show_icons=true&locale=en" alt="readme stats" />
   <br/>
+<br>
   <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sama807&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
