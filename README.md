@@ -26,7 +26,7 @@
    <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br>
  <hr/>
  <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
